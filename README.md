@@ -1,1 +1,1 @@
-I was just testing to see if git hub was working, cuz this was my new account. 
+this repository was used to test my linux commands and I was testing other commands and shortcuts
