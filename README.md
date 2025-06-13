@@ -1,1 +1,1 @@
-this project was made fully in java please check ouT.
+this project was made fully in java please check out.
